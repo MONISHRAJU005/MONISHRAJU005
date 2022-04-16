@@ -1,4 +1,3 @@
-
 def mul(list_name):
     i=0
     mul_output=list_name[i]
